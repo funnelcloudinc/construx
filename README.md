@@ -1,3 +1,5 @@
 # construx
 
-Type validation framework.
+Type validation framework for elixir.
+
+*under construction*
