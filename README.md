@@ -1,1 +1,3 @@
 # construx
+
+Type validation framework.
